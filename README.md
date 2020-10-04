@@ -1,3 +1,5 @@
+***Burger Builder***
+
 This is a single page application built using React JS and ReduxJS.
 
 Which looks like this
@@ -17,7 +19,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all the required dependencies in the local node_modules folder
+Installs all the required dependencies in the local `node_modules` folder
 
 ### `npm start`
 
@@ -34,10 +36,8 @@ See the section about [running tests](#running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds `build` folder which contains an optimized production  build.<br>
 
-The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 

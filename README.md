@@ -1,4 +1,4 @@
-***Burger Builder***
+**Burger Builder**
 
 This is a single page application built using React JS and ReduxJS.
 

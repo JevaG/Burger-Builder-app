@@ -1,4 +1,3 @@
-![](public/myburgerscr.png)
 
 
 

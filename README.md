@@ -2,7 +2,7 @@
 
 This is a single page application built using React JS and ReduxJS.
 
-Which deployed on Google FireBase: [Ready to order a delicious burger !?](https://my-burger-burger-fd244.web.app/)
+Which deployed on Google FireBase:  [Ready to order a delicious burger !?](https://my-burger-burger-fd244.web.app/)
 
 And looks like this
 

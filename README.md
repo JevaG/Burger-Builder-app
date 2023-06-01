@@ -11,8 +11,6 @@ And looks like this
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Based on this tutorial: [Udemy course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/13914110#overview)
-
 
 ## Available Scripts
 
